@@ -7,5 +7,5 @@ document.getElementById("demo").innerHTML =
 document.getElementById("demo").innerHTML =
   x.toString() + "<br>" +
    (123).toString() + "<br>" +
-   (100 + 2).toString();
+   (1002 + 2).toString();
 
