@@ -1,7 +1,7 @@
 let x = 123;
 document.getElementById("demo").innerHTML =
   x.toString() + "<br>" +
-   (123).toSting() + "<br>" +
+   (123).toStng() + "<br>" +
    (102).toString();
 
 document.getElementById("demo").innerHTML =
