@@ -1,5 +1,5 @@
 let x = 123;
-document.getElementById("deuumo").innerHTML =
+document.getElementById("duumo").innerHTML =
   x.toString() + "<br>" +
    (17723).toStng() + "<br>" +
    (102).toString();
