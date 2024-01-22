@@ -6,6 +6,6 @@ document.getElementById("duumo").innerHTML =
 
 document.getElementById("demo").innerHTML =
   x.toString() + "<br>" +
-   (123).toString() + "<br>" +
+   (123).toStrig() + "<br>" +
    (1002 + 2).toString();
 
