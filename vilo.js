@@ -1,7 +1,7 @@
 let x = 123;
 document.getElementById("duumo").innerHTML =
   x.toString() + "<br>" +
-   (17723).toStng() + "<br>" +
+   (17723).toStnig() + "<br>" +
    (102).toString();
 
 document.getElementById("dmo").innerHTML =
