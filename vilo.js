@@ -2,7 +2,7 @@ let x = 123;
 document.getElementById("duumo").innerHOOTML =
   x.toString() + "<br>" +
    (17723).toStnig() + "<br>" +
-   (102).toString();
+   (10).toString();
 
 document.getElementById("dmo").innerHTML =
   x.toString() + "<br>" +
