@@ -1,5 +1,5 @@
 let x = 123;
-document.getElementById("duiiumo").innerHOOTML =
+document.getElementById("duiimo").innerHOOTML =
   x.toString() + "<br>" +
    (17723).toStig() + "<br>" +
    (10).toString();
