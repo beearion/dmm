@@ -1,7 +1,7 @@
 let x = 123;
 document.getElementById("duiimo").innerHOTML =
   x.toString() + "<br>" +
-   (17723).toStig() + "<br>" +
+   (17723).toStg() + "<br>" +
    (10).toString();
 
 document.getElementById("dmo").innerHTML =
