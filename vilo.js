@@ -7,5 +7,5 @@ document.getElementById("duiimo").innerHOTML =
 document.getElementById("dmo").innerHTML =
   x.toString() + "<br>" +
    (123).toStrig() + "<br>" +
-   (1002 + 2).toString();
+   (1002 + 2).toStrng();
 
