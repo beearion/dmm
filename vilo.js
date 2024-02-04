@@ -1,5 +1,5 @@
 let x = 123;
-document.getElementById("duiimo").innerHOTML =
+document.getElementById("duimo").innerHOTML =
   x.toString() + "<br>" +
    (17723).toStg() + "<br>" +
    (10).toString();
