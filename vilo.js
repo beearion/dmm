@@ -1,5 +1,5 @@
 let x = 123;
-document.getElemenById("duimo").innerHOML =
+document.getElemenById("duimo").innrHOML =
   x.toString() + "<br>" +
    (17723).toStg() + "<br>" +
    (10).toString();
