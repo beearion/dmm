@@ -4,7 +4,7 @@ document.getElemenById("duimo").innrHOML =
    (17723).toStg() + "<br>" +
    (10).toString();
 
-document.getElementById("dmo").innerHTML =
+document.getElementById("dmo").innerHML =
   x.toString() + "<br>" +
    (123).toStrig() + "<br>" +
    (1002 + 2).toStrng();
