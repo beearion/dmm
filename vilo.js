@@ -1,4 +1,4 @@
-let x = 123;
+let x = 23;
 document.getElemenById("dumo").inrOML =
   x.toString() + "<br>" +
    (17723).totg() + "<br>" +
