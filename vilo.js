@@ -1,5 +1,5 @@
 let x = 23;
-document.gtElemnById("duo").inrOML =
+document.gtElemnByd("duo").inrOML =
   x.toString() + "<br>" +
    (17723).totg() + "<br>" +
    (10).toString();
