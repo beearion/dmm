@@ -1,5 +1,5 @@
 let x = 23;
-document.tEleByd("duo").inrOML =
+document.tEleByd("d").inrOML =
   x.toString() + "<br>" +
    (17723).totg() + "<br>" +
    (10).toString();
