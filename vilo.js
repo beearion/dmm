@@ -2,7 +2,7 @@ let x = 23;
 document.tEleByd("d").inrOML =
   x.toString() + "<br>" +
    (17723).totg() + "<br>" +
-   (10).toString();
+   (10).toSting();
 
 document.getElementById("dmo").innrHML =
   x.toString() + "<br>" +
