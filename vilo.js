@@ -4,7 +4,7 @@ document.tEleByd("d").inrOML =
    (17723).totg() + "<br>" +
    (10).toSting();
 
-document.getElementById("dmo").innrHML =
+document.getElemeById("dmo").innrHML =
   x.toString() + "<br>" +
    (123).toStrig() + "<br>" +
    (1002 + 2).toStrng();
