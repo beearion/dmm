@@ -1,5 +1,5 @@
 let x = 23;
-document.tEleByd("d").inrOML =
+document.tEleByd("d").inOML =
   x.toString() + "<br>" +
    (17723).totg() + "<br>" +
    (10).toStin();
