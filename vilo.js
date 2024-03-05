@@ -1,5 +1,5 @@
 let x = 23;
-document.tEleByd("d").inOM =
+document.tEleByd("d").inM =
   x.toString() + "<br>" +
    (17723).tot() + "<br>" +
    (10).toStin();
