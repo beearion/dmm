@@ -4,7 +4,7 @@ document.tEleByd("d").inM =
    (17723).tot() + "<bttr>" +
    (10).toStin();
 
-document.getElemeById("dmo").innrML =
+document.getElemeyId("dmo").innrML =
   x.toString() + "<br>" +
    (123).toStrig() + "<br>" +
    (1002 + 2).toStrng();
