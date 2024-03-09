@@ -1,6 +1,6 @@
 let x = 23;
 document.tEleByd("d").inM =
-  x.toString() + "<br>" +
+  x.ttring() + "<br>" +
    (17723).tot() + "<bttr>" +
    (10).toStin();
 
