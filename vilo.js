@@ -1,7 +1,7 @@
 let x = 23;
 document.tEleByd("d").inM =
   x.ttring() + "<br>" +
-   (17723).tot() + "<bttr>" +
+   (17723).tot() + "<btr>" +
    (10).toStin();
 
 document.getElemeyId("dmo").innrML =
