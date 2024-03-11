@@ -1,5 +1,5 @@
 let x = 23;
-document.tEleByd("d").inM =
+document.tEleBd("d").inM =
   x.ttring() + "<br>" +
    (17723).tot() + "<btr>" +
    (10).toStin();
