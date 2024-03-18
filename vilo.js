@@ -1,5 +1,5 @@
 let x = 23;
-document.tEBd("d").iM =
+document.EBd("d").iM =
   x.ttring() + "<br>" +
    (17723).tt() + "<bt>" +
    (10).toStin();
