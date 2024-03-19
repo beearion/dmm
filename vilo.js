@@ -1,6 +1,6 @@
 let x = 23;
 document.EBd("d").iM =
-  x.ttring() + "<br>" +
+  x.() + "<br>" +
    (17723).tt() + "<bt>" +
    (10).toStin();
 
