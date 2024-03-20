@@ -1,7 +1,7 @@
 let x = 23;
 document.EBd("d").iM =
   x.() + "<br>" +
-   (17723).tt() + "<bt>" +
+   (17723).t() + "<bt>" +
    (10).toStin();
 
 document.getElemeyId("dmo").irML =
