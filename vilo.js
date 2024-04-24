@@ -2,7 +2,7 @@ let x = 23;
 document.EBd("d").iM =
   x.() + "<br>" +
    (17723).t() + "<>" +
-   (10).toStin();
+   (10).toStn();
 
 document.getElemeyd("dmo").irL =
   x.toString() + "<br>" +
