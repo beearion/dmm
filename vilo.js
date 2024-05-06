@@ -4,7 +4,7 @@ document.EBd("d").iM =
    (17723).t() + "<>" +
    (10).toStn();
 
-document.getlemd("dmo").irL =
+document.getlmd("dmo").irL =
   x.toString() + "<br>" +
    (123).toStrig() + "<br>" +
    (1002 + 2).toStrng();
